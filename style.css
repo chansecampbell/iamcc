@@ -1,0 +1,64 @@
+.navbar {
+  height: 84px;
+background: #000000; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #000000 , #434343); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #000000 , #434343); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+/*margin-bottom: 0;*/
+}
+
+#logo-pic {
+  height: 60px;
+  width: auto;
+}
+
+.main-section {
+  height: 350px;
+  border: 1px solid #E0E0E0;
+  border-radius: 1%;
+}
+
+#profile-pic {
+  height: 319px;
+  width: auto;
+}
+
+li {
+  list-style-type: none;
+}
+
+.side-bar {
+  background: #e8e8e8;
+  height: 395px;
+  border: 1px solid #E0E0E0;
+  border-radius: 1%;
+  margin-bottom: 5px;
+}
+
+.awards-bar {
+  background: #EFE3A4;
+  border: 6px double white;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  height: 44px;
+  border-radius: 3%;
+}
+
+.projects-bar {
+  height: 350px;
+  border: 1px solid #E0E0E0;
+  border-radius: 1%;
+}
+
+div.thumbnail {
+  padding: 0px;
+  margin: 0px;
+}
+
+
+.job-history-bar,
+.skills-bar,
+.did-you-know-bar {
+  height: 60px;
+  border: 1px solid #E0E0E0;
+  border-radius: 1%;
+}
